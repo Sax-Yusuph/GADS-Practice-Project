@@ -1,4 +1,4 @@
-###1. Creating and deployment a simple app to a Compute Engine VM Instance
+### 1. Creating and deployment a simple app to a Compute Engine VM Instance
 
 **Task a: Creating a Compute Engine Virtual Machine Instance**
 ```
